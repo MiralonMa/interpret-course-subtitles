@@ -1,0 +1,26 @@
+# Local work and generated deliverables
+/work/
+/outputs/
+/course-glossaries/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Private credentials and environment files
+.env
+.env.*
+*.pem
+*.key
+
+# Course sources should stay in individual course projects
+*.srt
+*.vtt
+*.txt
+*.pdf
+*.ppt
+*.pptx
+*.mp3
+*.wav
+*.mp4
+*.mkv

@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程字幕准确解读"
+  short_description: "结合课程资料与前后文辨认字幕术语，保留证据、候选解释与关键疑点"
+  default_prompt: "请使用 $interpret-course-subtitles 解读本项目的课程字幕，先查找已有参考资料，按课程询问是否建立独立术语表，再结合上下文核验术语。"
